@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1492055363 source:d:\workspace\codeblocks\mazegame\main.cpp
+	"StaticMaze.h"
+	"Stack.h"
+	<iostream>
+
+1492055080 d:\workspace\codeblocks\mazegame\include\staticmaze.h
+	"Stack.h"
+
+1492048745 d:\workspace\codeblocks\mazegame\include\stack.h
+
+1492054594 source:d:\workspace\codeblocks\mazegame\src\staticmaze.cpp
+	"StaticMaze.h"
+	<iostream>
+
+1492050653 source:d:\workspace\codeblocks\mazegame\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
